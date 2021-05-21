@@ -1,0 +1,4 @@
+{
+  "installDependencies": true,
+  "startCommand": "npx moleculer --repl --hot services/**/*.service.js"
+}
