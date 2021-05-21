@@ -13,14 +13,16 @@
   ],
   "author": "",
   "dependencies": {
-    "eslint": "^7.23.0",
-    "moleculer-repl": "^0.6.4",
-    "moleculer-web": "^0.9.1",
+    "moleculer": "^0.14.13",
     "moleculer-db": "^0.8.4",
     "moleculer-db-adapter-mongo": "^0.4.7",
-    "moleculer": "^0.14.13"
+    "moleculer-web": "^0.9.1"
   },
   "engines": {
     "node": ">= 10.x.x"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "moleculer-repl": "^0.6.4"
   }
 }
