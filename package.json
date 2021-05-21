@@ -12,11 +12,9 @@
     "moleculer"
   ],
   "author": "",
-  "devDependencies": {
-    "eslint": "^7.23.0",
-    "moleculer-repl": "^0.6.4"
-  },
   "dependencies": {
+    "eslint": "^7.23.0",
+    "moleculer-repl": "^0.6.4",
     "moleculer-web": "^0.9.1",
     "moleculer-db": "^0.8.4",
     "moleculer-db-adapter-mongo": "^0.4.7",
